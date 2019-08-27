@@ -16,7 +16,8 @@ make pull requests from them if appropriate)
 
 3. Clone your fork (or this repository, if you did not fork)
 
-4. Point autokey to it, e.g. by putting the clone, or a (symbolic) link to it in `~/.config/autokey/data/`
+4. Point autokey to the nested directory `MacOS-Linux-shortcuts` (not the top level one!),
+e.g. by putting the clone, or a (symbolic) link to it in `~/.config/autokey/data/
 
 ---
 
