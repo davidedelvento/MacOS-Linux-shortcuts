@@ -44,13 +44,13 @@ between terminal and non-terminal shortcuts, not sure why anybody thought that w
 #### On Linux
 
 2. Configure your Virtual Desktop switcher to use `CTRL-arrows` as Spaces do on the Mac
-(this will break the move-by-one-word, but that is fixed by autokey). Also, arrange your
-Virtual Dektops on a single line, as Space do on the Mac, and set them to the same number.
+(this will break the move-by-one-word, but that is fixed by autokey with the scripts in this repository).
+Also, arrange your Virtual Dektops on a single line, as Space do on the Mac, and set them to the same number.
 
 3. Configure the shortcut to lock the screen from `CTRL-L` to `CTRL-CMD-q`.
 
 On Mate you can do the last two items by opening the
-[Control Center](https://screenshots.debian.net/package/mate-control-center) and selecting `Keuboard Shortcuts`.
+[Control Center](https://screenshots.debian.net/package/mate-control-center) and selecting `Keyboard Shortcuts`.
 
 On Gnome, proceed as described [here](https://help.gnome.org/users/gnome-help/stable/keyboard-shortcuts-set.html)
 
