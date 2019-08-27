@@ -5,9 +5,12 @@
 This repository is for people dealing with two of more among MacOS, Linux/Gnome and Linux/Mate.
 Linux/KDE or other OSes not supported yet (but should be easy to add, please contribute).
 
-Dealing with different keyboard shortcuts quickly becomes untenable, so to maintain sanity
-one has to change shortcuts for one or more of these machines. This repository changes the
-shortcuts for Linux, and suggests a few changes for Mac OS.
+Dealing with different keyboard shortcuts uses a lot of mental energy, so to maintain focus on
+the task at hand (as opposed to which keys to press) one has to change shortcuts for one or
+more of these machines. This repository changes some of the
+shortcuts for Linux, and this README suggests a few additional changes, including ones for Mac OS.
+
+Best results will be achieved if you use identical keyboards across all your machines.
 
 ### Instructions
 
