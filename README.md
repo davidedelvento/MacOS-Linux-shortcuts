@@ -24,6 +24,9 @@ See [autokey instructions](https://github.com/autokey/autokey/wiki/Installing) i
 4. Point autokey to the directory `add-MacOS-shortcuts-to-Linux`, e.g. by putting a hard or symbolic link
 to it in `~/.config/autokey/data/`
 
+6. (optional) Point autokey to the directory `remove-Linux-shortcuts/`, as above. This will make sure
+the old shortcuts (e.g. CTRL-C) do not work anymore, so you can inadvertently use them.
+
 ---
 
 ### Additional shortcuts
