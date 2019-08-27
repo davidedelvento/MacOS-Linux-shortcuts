@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 3, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "3_CUT", 
+    "description": "03_CUT", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 

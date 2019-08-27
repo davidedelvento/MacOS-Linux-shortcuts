@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 21, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "2_PASTE", 
+    "description": "01_COPY", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "v", 
+        "hotKey": "c", 
         "modifiers": [
             "<super>"
         ]
