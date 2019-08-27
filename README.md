@@ -11,13 +11,15 @@ shortcuts for Linux, and suggests a few changes for Mac OS.
 
 ### Instructions
 
-1. Install autokey on your Linux box(es) with `sudo apt-get install autokey` or `yum install autokey-gtk` or `pip`. See [autokey instructions](https://github.com/autokey/autokey/wiki/Installing#pip-installation) for details.
+1. Install autokey on your Linux box(es) with `sudo apt-get install autokey` or `yum install autokey-gtk` or `pip`.
+See [autokey instructions](https://github.com/autokey/autokey/wiki/Installing) if you need details.
 
 2. Fork this repository (optional but recommended)
 
 3. Clone your fork (or this repository, if you did not fork)
 
-4. Point autokey to the nested directory `MacOS-Linux-shortcuts`, e.g. by putting a hard or symbolic link to it in `~/.config/autokey/data/
+4. Point autokey to the nested directory `MacOS-Linux-shortcuts`, e.g. by putting a hard or symbolic link
+to it in `~/.config/autokey/data/`
 
 ---
 
