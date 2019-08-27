@@ -45,7 +45,7 @@ between terminal and non-terminal shortcuts, not sure why anybody thought that w
 
 2. Configure your Virtual Desktop switcher to use `CTRL-arrows` as Spaces do on the Mac
 (this will break the move-by-one-word, but that is fixed by autokey with the scripts in this repository).
-Also, arrange your Virtual Dektops on a single line, as Space do on the Mac, and set them to the same number.
+Also, arrange your Virtual Desktops on a single line, as Space do on the Mac, and set them to the same number.
 
 3. Configure the shortcut to lock the screen from `CTRL-L` to `CTRL-CMD-q`.
 
