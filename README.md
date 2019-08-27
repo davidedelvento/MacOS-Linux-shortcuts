@@ -35,7 +35,9 @@ between terminal and non-terminal shortcuts, which will drive you crazy (if you 
 `CTRL-ALT-arrows` so the shortcut is consistent with the one on the Mac (this will break the
 move-by-one-word, but that is fixed by autokey)
 
-For the last two points, I will link the
+3. Like the previous bullet, if you lock the screen with `CTRL-CMD-q`
+
+For the last three points, I will link the
 instructions on how to do this as soon as soon as I find them again,
 see [here](https://meta.stackexchange.com/questions/283899/) for details.
 
