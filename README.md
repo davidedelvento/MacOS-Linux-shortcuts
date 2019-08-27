@@ -21,7 +21,7 @@ See [autokey instructions](https://github.com/autokey/autokey/wiki/Installing) i
 
 3. Clone your fork (or this repository, if you did not fork)
 
-4. Point autokey to the nested directory `MacOS-Linux-shortcuts`, e.g. by putting a hard or symbolic link
+4. Point autokey to the directory `add-MacOS-shortcuts-to-Linux`, e.g. by putting a hard or symbolic link
 to it in `~/.config/autokey/data/`
 
 ---
