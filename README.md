@@ -38,7 +38,7 @@ shortcuts for "move one word" as described
 You will also need the "move to begin/end of line" and
 the corresponding "select" to work as in the other apps, and
 this part requires manual configuration. If you use the regular
-`terminal` application you also need that. In fact (like on Linux) there are some differences
+`terminal` application, you will also need to change its shortcuts. In fact (like on Linux) there are some differences
 between terminal and non-terminal shortcuts, not sure why anybody thought that was a good idea...
 
 #### On Linux
