@@ -22,14 +22,14 @@ make pull requests from them if appropriate)
 
 ### Additional shortcuts
 
-Unrelated to this repository, but related with having sane shortcuts, I also did the following:
+Unrelated to this repository, but related with having sane shortcuts:
 
 1. Install `iterm2` on the Mac and make sure the
 shortcuts for "move one word", "move to begin/end of line" and
 the corresponding "select" work as in the other apps.
 This requires manual configuration and would be needed even with the regular
 `terminal` application, otherwise (like on Linux) there are some differences
-between terminal and non-terminal shortcuts.
+between terminal and non-terminal shortcuts, which will drive you crazy (if you are like me...)
 
 2. Configure your Linux Virtual Desktop switcher to use `CTRL-arrows` instead of
 `CTRL-ALT-arrows` so the shortcut is consistent with the one on the Mac (this will break the
