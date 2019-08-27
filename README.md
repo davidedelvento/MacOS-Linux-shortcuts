@@ -4,12 +4,13 @@ I have recently switched OS at work, getting a MacOS, while still keeping Linux 
 Dealing with different keyboard shortcuts quickly became untenable, so I looked around for solutions, i.e. a setup on Linux to use the same shortcuts as the Mac.
 Unfortunately I found no satisfactory solutions, so I proceeded as follows. You may use the following as instructions to use this repository.
 
-1. I installed autokey on my Linux box(es) with `sudo apt-get install autokey`
+1. install autokey on your Linux box(es) with `sudo apt-get install autokey`
 
-2. I created this repository and pointed autokey to it. You may want to
-    1. fork it (optional but preferred way, so you can save your own changes and make pull requests of them if appropriate)
-    2. clone your fork (or this repository, if you did not fork)
-    3. point autokey to it, e.g. by putting the clone, or a (symbolic) link to it in `~/.config/autokey/data/`
+2. fork this repository (optional but preferred way, so you can save your own changes and make pull requests of them if appropriate)
+
+3. clone your fork (or this repository, if you did not fork)
+
+4. point autokey to it, e.g. by putting the clone, or a (symbolic) link to it in `~/.config/autokey/data/`
 
 ---
 
