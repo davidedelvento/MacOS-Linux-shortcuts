@@ -30,11 +30,13 @@ Unrelated to this repository, but related with having sane shortcuts...
 #### On the Mac
 
 1. Install [`iterm2`](https://www.iterm2.com/) on the Mac and make sure the
-shortcuts for "move one word", "move to begin/end of line" and
-the corresponding "select" work as in the other apps.
-This requires manual configuration and would be needed even with the regular
-`terminal` application, otherwise (like on Linux) there are some differences
-between terminal and non-terminal shortcuts, which can drive you crazy..
+shortcuts for "move one word" as described 
+[here](https://apple.stackexchange.com/questions/154292/iterm-going-one-word-backwards-and-forwards/293988#293988).
+You will also need the "move to begin/end of line" and
+the corresponding "select" to work as in the other apps, and
+this part requires manual configuration. If you use the regular
+`terminal` application you also need that. In fact (like on Linux) there are some differences
+between terminal and non-terminal shortcuts, not sure why anybody thought that was a good idea...
 
 #### On Linux
 
@@ -54,7 +56,9 @@ See [Autokey documentation](https://github.com/autokey/autokey/wiki/Scripting)
 
 ### Problems, questions or suggestions?
 
-Please submit an issue and I will be happy to respond! Do also submit Pull Requests:
+Please submit an [issue](https://github.com/davidedelvento/MacOS-Linux-shortcuts/issues) and I will be happy to respond!
+
+Do also submit Pull Requests:
 [Pull Requests](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) are very welcome
 to improve anything, especially wrong or incomplete shortcuts, including ones for Linux/KDE or other OSes.
 
