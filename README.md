@@ -29,7 +29,7 @@ Unrelated to this repository, but related with having sane shortcuts...
 
 #### On the Mac
 
-1. Install [`iterm2`](https://www.iterm2.com/) on the Mac and make sure the
+1. Install [`iterm2`](https://www.iterm2.com/) on the Mac and set the
 shortcuts for "move one word" as described 
 [here](https://apple.stackexchange.com/questions/154292/iterm-going-one-word-backwards-and-forwards/293988#293988).
 You will also need the "move to begin/end of line" and
