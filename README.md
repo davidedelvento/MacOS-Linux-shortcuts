@@ -41,3 +41,11 @@ For the last three points, I will link the
 instructions on how to do this as soon as soon as I find them again,
 see [here](https://meta.stackexchange.com/questions/283899/) for details.
 
+### Further documentation
+
+See [Autokey documentation](https://github.com/autokey/autokey/wiki/Scripting) to understand
+better the content of this repository and/or to contribute your changes.
+
+### Problems, questions or suggestions?
+
+Please submit an issue and I will be happy to respond!
