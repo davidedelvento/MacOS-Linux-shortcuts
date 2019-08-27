@@ -25,7 +25,8 @@ See [autokey instructions](https://github.com/autokey/autokey/wiki/Installing) i
 to it in `~/.config/autokey/data/`
 
 6. (optional) Point autokey to the directory `remove-Linux-shortcuts/`, as above. This will make sure
-the old shortcuts (e.g. CTRL-C) do not work anymore, so you can inadvertently use them.
+the old shortcuts (e.g. CTRL-C in text editors) do not work anymore, so you can not inadvertently use them
+and be stuck in the rut.
 
 ---
 
@@ -35,12 +36,12 @@ Unrelated to this repository, but related with having sane shortcuts...
 
 #### On the Mac
 
-1. Install [`iterm2`](https://www.iterm2.com/) on the Mac and set the
+1. Install [`iterm2`](https://www.iterm2.com/) and set the
 shortcuts for "move one word" as described 
 [here](https://apple.stackexchange.com/questions/154292/iterm-going-one-word-backwards-and-forwards/293988#293988).
 You will also need the "move to begin/end of line" and
-the corresponding "select" to work as in the other apps, and
-this part requires manual configuration. If you use the regular
+the corresponding "select" to work as in the other apps. Unfortunately 
+this requires manual configuration. If you use the regular
 `terminal` application, you will also need to change its shortcuts. In fact (like on Linux) there are some differences
 between terminal and non-terminal shortcuts, not sure why anybody thought that was a good idea...
 
